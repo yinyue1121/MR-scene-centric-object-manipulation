@@ -5,12 +5,12 @@ To better illustrate the proposed approach, we have created this GitHub reposito
 
 ![Introduction](https://github.com/yinyue1121/MR-scene-centric-object-manipulation/blob/main/page1.png)
 ![Introduction](https://github.com/yueyin1121/MR-scene-centric-object-manipulation/blob/main/page2.png)
-[Video](https://github.com/ueyin1121/MR-scene-centric-object-manipulation/raw/main/videos/rotation.mp4)
+[Video](https://github.com/yueyin1121/MR-scene-centric-object-manipulation/blob/main/rotation.mp4)
 ![Methodology](https://github.com/yueyin1121/MR-scene-centric-object-manipulation/blob/main/page3.png)
 ![Methodology](https://github.com/yueyin1121/MR-scene-centric-object-manipulation/blob/main/page4.png)
 ![Implementation](https://github.com/yueyin1121/MR-scene-centric-object-manipulation/blob/main/page5.png)
-[Video](https://github.com/ueyin1121/MR-scene-centric-object-manipulation/raw/main/videos/MRrobotcontrol.mp4)
-[Video](https://github.com/ueyin1121/MR-scene-centric-object-manipulation/raw/main/videos/move.mp4)
+[Video](https://github.com/yueyin1121/MR-scene-centric-object-manipulation/blob/main/MR%20robot%20control.mp4)
+[Video](https://github.com/yinyue1121/MR-scene-centric-object-manipulation/blob/main/move.mp4)
 
 
 
