@@ -3,3 +3,6 @@ This is the project page for our paper titled "A Mixed Reality-Assisted, Scene-C
 
 To better illustrate the proposed approach, we have created this GitHub repository that includes an overview of the project and a series of videos demonstrating key aspects of our implementation. These videos showcase mixed reality-assisted robotic control, interaction with segmented object digital twins, and the robot’s ability to interpret and execute human intention by moving physical objects to desired locations.
 
+<img width="1024" height="576" alt="Screenshot 2025-08-24 at 10 28 11" src="https://github.com/user-attachments/assets/b6d89d3e-f964-4b15-970b-2fa8ae2aa1f8" />
+
+
